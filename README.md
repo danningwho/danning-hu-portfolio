@@ -8,27 +8,29 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+<h3> This is my public portfolio for Telling Stories with Data at CMU taken in Spring 2025.</h3>
+
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! I'm Danning.
+I completed my undergrad in Decision Science and minor in Behavioral Economics at Carnegie Mellon University and am now in my final semester in the MSPPM program. I currently am working part-time at Ipsos NA as a market research intern in the socioeconomic team. Nice to meet you!
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+Throughout this course, my main objectives are to:
 
-1. List item #1
-2. List item #2
-3. List item #3
+1. Learn how to communicate data more effectively
+2. Feel more comfortable with handling data
+3. Gain more practice in creating better graphs
 
-or...
-
-- List item #1
-- List item #2
-- List item #3
+While my future work may not be on the "front-lines" of data, I will still be interacting with it regularly enough for me to think it is important to pick up as many tools and gain as much knowledge as I can to learn how to weave raw data into digestable work.
 
 # Portfolio
+## Assignments --
+- Assignment: Data Vizualization Critique #1
 
-# Examples
+## Final Project -- (Tentative) Perceptions of AI Across Fields
+
+# Examples / testing space
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
@@ -43,6 +45,9 @@ Here it might be helpful to include a high-level description of your final proje
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
 
+
+<!--
+(References from the original template)
 ---
 ## Other stuff you can do (you can remove this section - it's just for your reference.)
 
@@ -103,7 +108,7 @@ Any of those formats will work. Here's some examples of working links:
 Make sure to check these from your publicly accessible URL to make sure they're working correctly (not from the preview tab). 
 
 Looking for more?  A nice Markdown guide [can be found here](https://www.markdownguide.org/cheat-sheet/)
-
+-->
 ## References
 _List any references you used here._
 
