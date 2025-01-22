@@ -21,6 +21,11 @@ While my future work may not be on the "front-lines" of data, I will still be in
 ## Assignments --
 - Assignment: Data Vizualization Critique #1
 
+## In Class Work --
+- Datawrapper Exploration
+<iframe title="Top 5 vs Bottom 5 Urban Mobility Readiness Cities (2020)" aria-label="Split Bars" id="datawrapper-chart-Mfu4v" src="https://datawrapper.dwcdn.net/Mfu4v/2/" scrolling="no" frameborder="0" style="border: none;" width="788" height="340" data-external="1"></iframe>
+
+
 ## Final Project -- (Tentative) Perceptions of AI Across Fields
 
 # Examples / testing space
