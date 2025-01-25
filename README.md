@@ -20,6 +20,7 @@ While my future work may not be on the "front-lines" of data, I will still be in
 # Portfolio
 ## Assignments --
 - Assignment: Data Vizualization Critique #1
+- Assignment: Visualizing Government Debt
 
 ## In Class Work --
 - Datawrapper Exploration
