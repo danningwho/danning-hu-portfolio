@@ -64,6 +64,7 @@
 
 
 ## 2: Comparing Japan and Estonia's Debt-to-GDP
+*Recommend to go full-screen for this visualization due to sizing issues*
 <div class='tableauPlaceholder' id='viz1737867344401' style='position: relative'>
   <noscript>
     <a href='#'><img alt='Japan&#39;s Debt-to-GDP Ratio Trending Upwards While Estonia Remains Stable ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Vi&#47;VisualizingGovernmentDebt-Task3&#47;JapansDebt-to-GDPRatioTrendingUpwardsWhileEstoniaRemainsStable&#47;1_rss.png' style='border: none' /></a>
