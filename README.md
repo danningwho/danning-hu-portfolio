@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://danningwho.github.io/danning-hu-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Portfolio
 <h3> This is my public portfolio for Telling Stories with Data at CMU taken in Spring 2025.</h3>
@@ -24,7 +24,6 @@ While my future work may not be on the "front-lines" of data, I will still be in
 
 ## In Class Work --
 - Datawrapper Exploration
-
 <div style="min-height:340px" id="datawrapper-vis-Mfu4v"><noscript><img src="https://datawrapper.dwcdn.net/Mfu4v/full.png" alt="" /></noscript></div>
 
 
@@ -40,7 +39,6 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
@@ -69,20 +67,7 @@ You can build tables like this:
 
 An easy-to-use template generator tool [can be found here](https://www.tablesgenerator.com/markdown_tables)
 
-You can use different headings, like this: 
 
-# Here's a large title (H1)
-## Here's a subtitle (H2)
-### ...and so on (H3)
-You get the idea - just don't forget the space between the # and your title.  `#Title` won't work, but `# Title` will. 
-
-### Adding images
-
-Here's an example of how to add an image to my portfolio.  
-
-![funny dog picture](funny-dog-unsplash.jpg)
-> Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
 
 Alternately, you can set the size of the image using just a bit of HTML: 
 
