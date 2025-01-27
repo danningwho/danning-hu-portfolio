@@ -19,8 +19,10 @@ While my future work may not be on the "front-lines" of data, I will still be in
 
 # Portfolio
 ## Assignments --
-- Assignment: Data Vizualization Critique #1
-- Assignment: Visualizing Government Debt
+- Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+- Assignment 3&4: [Critique by Design](critique-by-design)
+(To be added) 
+
 
 ## In Class Work --
 - Datawrapper Exploration
@@ -32,11 +34,6 @@ While my future work may not be on the "front-lines" of data, I will still be in
 # Examples / testing space
 - [1/27/2025 Class](Jan27Class.md)
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-
-
-## Assignment 3&4: [Critique by Design](critique-by-design)
-(To be added) 
 
 ## Final project
 [Part I](final-project-part-one)
