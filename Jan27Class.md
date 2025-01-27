@@ -10,6 +10,7 @@
     <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' />
     <param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' />
     <param name='filter' value='publish=yes' /></object></div>                
+    
     <script type='text/javascript'>                    
       var divElement = document.getElementById('viz1737995469181');
       var vizElement = divElement.getElementsByTagName('object')[0];
