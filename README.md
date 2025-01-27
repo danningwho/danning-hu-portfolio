@@ -30,7 +30,7 @@ While my future work may not be on the "front-lines" of data, I will still be in
 ## Final Project -- (Tentative) Perceptions of AI Across Fields
 
 # Examples / testing space
-- 1/27/2025 Class = (Jan27Class)
+- [1/27/2025 Class] (Jan27Class)
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 
