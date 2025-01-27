@@ -2,14 +2,7 @@
 
 # Data Exploration: Tableau World Indicators
 
-<script type='text/javascript'>                    
-      var divElement = document.getElementById('viz1737995469181');
-      var vizElement = divElement.getElementsByTagName('object')[0];
-      vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-      var scriptElement = document.createElement('script');                    
-      scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-      vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-    </script>
+
 
 <div class='tableauPlaceholder' id='viz1737995469181' style='position: relative'>
   <noscript><a href='#'><img alt='Sheet 1 - 2009 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TS&#47;TSWD1_27_Class&#47;Sheet1&#47;1_rss.png' style='border: none' /></a>
@@ -21,4 +14,12 @@
     <param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' />
     <param name='filter' value='publish=yes' /></object></div>                
     
-    
+<script type='text/javascript'>                    
+      var divElement = document.getElementById('viz1737995469181');
+      var vizElement = divElement.getElementsByTagName('object')[0];
+      vizElement.style.width='100%';
+      vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+      var scriptElement = document.createElement('script');                    
+      scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+      vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
