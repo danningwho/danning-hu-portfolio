@@ -52,10 +52,12 @@ I plan to use Shorthand and Tableau (and excel if needed) to complete my project
 What worked?
 - The topic itself seems to be interesting/can hook people in
 - The datasets found support the story well
+
 What didn’t work
 - May want to narrow down and refine the story a bit more
 - What questions came up
 - “What is your story structure?”
+
 What new inspiration arose
 - Correlating to time periods will be very important
 
