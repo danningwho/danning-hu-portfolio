@@ -65,13 +65,18 @@ What new inspiration arose
 ## References
 Adam, D. (n.d.). Does Fact-Checking Work? Here’s What the Science Says. Scientific American. Retrieved February 2, 2025, from https://www.scientificamerican.com/article/does-fact-checking-work-on-social-media/
 AMMeBa: A Large-Scale Survey and Dataset of Media-Based Misinformation In-The-Wild. (n.d.). Retrieved February 2, 2025, from https://arxiv.org/html/2405.11697v1
+
 Chuai, Y., Tian, H., Pröllochs, N., & Lenzini, G. (2024). Did the Roll-Out of Community Notes Reduce Engagement With Misinformation on X/Twitter? Proc. ACM Hum.-Comput. Interact., 8(CSCW2), 428:1-428:52. https://doi.org/10.1145/3686967
 Fake news shared on social media U.S. (n.d.). Statista. Retrieved February 2, 2025, from https://www.statista.com/statistics/657111/fake-news-sharing-online/
+
 Goldstein, J. A., Chao, J., Grossman, S., Stamos, A., & Tomz, M. (2024). How persuasive is AI-generated propaganda? PNAS Nexus, 3(2), pgae034. https://doi.org/10.1093/pnasnexus/pgae034
+
 OECD. (2024). The OECD Truth Quest Survey: Methodology and findings.
+
 OECD Going Digital Toolkit. (n.d.). Ability of adults to identify online disinformation created by generative AI [Dataset]. https://www.oecd.org/going-digital-toolkit
+
 Pearson, J. (2024, May 28). Google research shows the fast rise of AI-generated misinformation. CBC News. https://www.cbc.ca/news/science/artificial-intelligence-misinformation-google-1.7217275
-The news media sounded the alarm on coronavirus for months—But few listened. Why? (n.d.). Nieman Lab. Retrieved February 3, 2025, from https://www.niemanlab.org/2020/03/the-news-media-sounded-the-alarm-on-coronavirus-for-months-but-few-listened-why/
+
 Tomz, M. (2024). How Persuasive is AI-Generated Propaganda? [Dataset]. Harvard Dataverse. https://doi.org/10.7910/DVN/LAZ7AA
 
 ## AI acknowledgements
