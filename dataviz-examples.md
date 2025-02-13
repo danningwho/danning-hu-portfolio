@@ -35,10 +35,10 @@ I selected the first graphic from: https://blackwealthdata.org/explore/business
   <img src="Images/a1.png" alt="Alt Text for a1" width="50%" />
 <img src="Images/a2.png" alt="Alt Text for a2" width="50%" />
 <img src="Images/a3.png" alt="Alt Text for a3" width="50%" />
-<img src="Images/a4.png" alt="Alt Text for a3" width="50%" />
-<img src="Images/a5.png" alt="Alt Text for a3" width="50%" />
-<img src="Images/a6.png" alt="Alt Text for a3" width="50%" />
-<img src="Images/a7.png" alt="Alt Text for a3" width="50%" />
+<img src="Images/a4.png" alt="Alt Text for a4" width="50%" />
+<img src="Images/a5.png" alt="Alt Text for a5" width="50%" />
+<img src="Images/a6.png" alt="Alt Text for a6" width="50%" />
+<img src="Images/a7.png" alt="Alt Text for a7" width="50%" />
 </div>
 
 <div width = 50%>
@@ -60,7 +60,7 @@ I selected the first graphic from: https://blackwealthdata.org/explore/business
 
 
 ## Step three: sketch a solution
-
+<img src="Images/MakeoverMondaySketch.png" alt="Sketch of New Graph" width="50%" />
 
 ## Step four: test the solution
 | ID                | "Can you tell me what you think this is?"                                                                                   | "Can you describe to me what this is telling you?"                                                                                                          | "Is there anything you find surprising or confusing?"                                                                 | "Who do you think is the intended audience for this?"                                | "Is there anything you would change or do differently?"                                                              |
