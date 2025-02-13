@@ -31,7 +31,7 @@ I selected the first graphic from: https://blackwealthdata.org/explore/business
 
 
 ## Step Two: Initial Feedback
-<div width = 50%>
+<div width = 45%>
   <img src="Images/a1.png" alt="Alt Text for a1" width="50%" />
 <img src="Images/a2.png" alt="Alt Text for a2" width="50%" />
 <img src="Images/a3.png" alt="Alt Text for a3" width="50%" />
@@ -41,7 +41,8 @@ I selected the first graphic from: https://blackwealthdata.org/explore/business
 <img src="Images/a7.png" alt="Alt Text for a7" width="50%" />
 </div>
 
-<div width = 50%>
+
+<div width = 45%>
   
 **Describe your overall observations about the data visualization here.  What stood out to you?  What did you find worked really well?  What didn't?  What, if anything, would you do differently?**
 
