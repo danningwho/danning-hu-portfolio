@@ -4,6 +4,7 @@
 
 ## Visualization selection:
 I selected the first graphic from: https://blackwealthdata.org/explore/business 
+* I chose this as I myself didn't completely understand the terminology used in this graph and wanted to challenge myself to see if I can make it more accessible. 
 <div class='tableauPlaceholder' id='viz1739418390413' style='position: relative'>
 <noscript>
 <a href='https:&#47;&#47;blackwealthdata.org&#47;'>
@@ -39,6 +40,7 @@ I selected the first graphic from: https://blackwealthdata.org/explore/business
 </div>
 
 
+<p width=50%>
   
 **Describe your overall observations about the data visualization here.  What stood out to you?  What did you find worked really well?  What didn't?  What, if anything, would you do differently?**
 
@@ -51,12 +53,13 @@ I selected the first graphic from: https://blackwealthdata.org/explore/business
 **Final thoughts: how successful what this method at evaluating the data visualization you selected? Are there measures you feel are missing or not being captured here?  What would you change?  Provide 1-2 recommendations (color, type of visualization, layout, etc.)**
 
 * I think this method is great at ensuring you consider multiple metrics of a graph. For the visualization itself, I would recommend adding other demographic groups and highlighting the bars for black businesses to 1) increase impact of black businesses and 2) have a point of comparison.
-
+</p>
 
 
 
 
 ## Step three: sketch a solution
+Incorporating some of my thoughts on the critique, I wanted to add all demographics into one graph to be able to draw clearer and faster comparisions between race/ethnicity as the original graph's title suggests. Seeing that there is a lot of information on the graph, I wanted to draw the eye to black employer firms and opted to highlight them in green and leave all other demographics in grey. I did contemplate using muted colors for the demographic groups and use a legend, but I decided against it after trying it out on an intial sketch.
 <div style="text-align: center;">
   <img src="Images/MakeoverMondaySketch.png" alt="Sketch of New Graph" width="70%" />
 </div>
@@ -121,7 +124,14 @@ Add a legend or glossary explaining terms like "firm receipt" and "black firm."
    - Use multiple smaller charts if necessary to compare different groups.  
 
 
-Step five: build your solution	
+## Step five: build your solution	
+Using the data from the Black Wealth Data Center, I recreated the graph mention at the start of this page. Here are the things I changed incorporating my own insights and from the user interviews of the sketch:
+* Added all demographics into the graph to have a comparison point
+* Added explanation on what firm receipts are and what an employer firm is
+* Added highlight colors on the black employer firms to draw more attention to it
+* Removed employer firms under the $10,000 to slightly lower the amount of information shown on a graph
+* Edited the title to utilize more common language and a clearer call to action
+
 <div class='tableauPlaceholder' id='viz1739417992922' style='position: relative'>
   <noscript>
     <a href='#'>
@@ -156,3 +166,6 @@ Step five: build your solution
 
 ## AI Usage:
 I used chatGPT to help me summarize the user interviews.
+
+## Dataset:
+The Black Wealth Data Center. (2025). Explore Data - Assets & Debt. “Number of Employer Firms, by Firm Receipt Amount, by Race/Ethnicity (Nationwide and Statewide, 2023)”. Blackwealthdata.org. https://blackwealthdata.org/explore/business
