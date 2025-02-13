@@ -31,18 +31,14 @@ I selected the first graphic from: https://blackwealthdata.org/explore/business
 
 
 ## Step Two: Initial Feedback
-<div width = 45%>
-  <img src="Images/a1.png" alt="Alt Text for a1" width="50%" />
-<img src="Images/a2.png" alt="Alt Text for a2" width="50%" />
-<img src="Images/a3.png" alt="Alt Text for a3" width="50%" />
-<img src="Images/a4.png" alt="Alt Text for a4" width="50%" />
-<img src="Images/a5.png" alt="Alt Text for a5" width="50%" />
-<img src="Images/a6.png" alt="Alt Text for a6" width="50%" />
-<img src="Images/a7.png" alt="Alt Text for a7" width="50%" />
+<img src="Images/a1.png" alt="Alt Text for a1" width="50%" /> <img src="Images/a2.png" alt="Alt Text for a2" width="50%" />
+<img src="Images/a3.png" alt="Alt Text for a3" width="50%" /> <img src="Images/a4.png" alt="Alt Text for a4" width="50%" />
+<img src="Images/a5.png" alt="Alt Text for a5" width="50%" /> <img src="Images/a6.png" alt="Alt Text for a6" width="50%" />
+<div style="text-align: center;">
+  <img src="Images/a7.png" alt="Alt Text for a7" width="50%" />
 </div>
 
 
-<div width = 45%>
   
 **Describe your overall observations about the data visualization here.  What stood out to you?  What did you find worked really well?  What didn't?  What, if anything, would you do differently?**
 
@@ -55,13 +51,16 @@ I selected the first graphic from: https://blackwealthdata.org/explore/business
 **Final thoughts: how successful what this method at evaluating the data visualization you selected? Are there measures you feel are missing or not being captured here?  What would you change?  Provide 1-2 recommendations (color, type of visualization, layout, etc.)**
 
 * I think this method is great at ensuring you consider multiple metrics of a graph. For the visualization itself, I would recommend adding other demographic groups and highlighting the bars for black businesses to 1) increase impact of black businesses and 2) have a point of comparison.
-</div>
+
 
 
 
 
 ## Step three: sketch a solution
-<img src="Images/MakeoverMondaySketch.png" alt="Sketch of New Graph" width="50%" />
+<div style="text-align: center;">
+  <img src="Images/MakeoverMondaySketch.png" alt="Sketch of New Graph" width="70%" />
+</div>
+
 
 ## Step four: test the solution
 | ID                | "Can you tell me what you think this is?"                                                                                   | "Can you describe to me what this is telling you?"                                                                                                          | "Is there anything you find surprising or confusing?"                                                                 | "Who do you think is the intended audience for this?"                                | "Is there anything you would change or do differently?"                                                              |
@@ -76,8 +75,6 @@ I selected the first graphic from: https://blackwealthdata.org/explore/business
 # Analysis from interviews:
 Looking at the uploaded image, here’s an analysis of the feedback, patterns, and suggested design changes:  
 
----
-
 ### **Similarities in Feedback**  
 1. **Terminology Confusion**:
    - All participants expressed uncertainty or confusion about key terms like "firm," "firm receipt," or "black firm."  
@@ -91,7 +88,6 @@ Looking at the uploaded image, here’s an analysis of the feedback, patterns, a
 4. **Complexity**:
    - The chart's complexity made it difficult for some participants (especially the Product Designer) to follow.  
 
----
 
 ### **Differences in Feedback**  
 1. **Understanding of the Data**:
@@ -101,21 +97,18 @@ Looking at the uploaded image, here’s an analysis of the feedback, patterns, a
 2. **Suggestions for Change**:
    - Some participants wanted simpler design elements (e.g., reducing dimensions), while others focused on making the chart more descriptive (titles, labels, etc.).  
 
----
 
 ### **Patterns in the Feedback**  
 - **Clarity**: There is a consistent need for clearer terminology and better labeling.  
 - **Target Audience**: While the chart might work for a professional audience, it is not immediately accessible to general readers.  
 - **Design Complexity**: Multiple dimensions and unclear axes make the visualization overwhelming for some users.  
 
----
 
 ### **What I Learned from the Feedback**  
 - Simpliciify: Overly complex charts can alienate audiences.  
 - Precise language matters: Terms like "firm receipt" need explanation or rephrasing.  
 - Unless it is very clear, understanding the audience can be a bit hard for a reader to get at the start.
 
----
 
 ### **Proposed Design Changes for Final Redesign**  
 Add a legend or glossary explaining terms like "firm receipt" and "black firm."  
@@ -159,3 +152,7 @@ Step five: build your solution
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                	
     vizElement.parentNode.insertBefore(scriptElement, vizElement);            	
   </script>
+
+
+## AI Usage:
+I used chatGPT to help me summarize the user interviews.
