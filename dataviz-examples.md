@@ -31,6 +31,32 @@ I selected the first graphic from: https://blackwealthdata.org/explore/business
 
 
 ## Step Two: Initial Feedback
+<div width = 50%>
+  <img src="Images/a1.png" alt="Alt Text for a1" width="50%" />
+<img src="Images/a2.png" alt="Alt Text for a2" width="50%" />
+<img src="Images/a3.png" alt="Alt Text for a3" width="50%" />
+<img src="Images/a4.png" alt="Alt Text for a3" width="50%" />
+<img src="Images/a5.png" alt="Alt Text for a3" width="50%" />
+<img src="Images/a6.png" alt="Alt Text for a3" width="50%" />
+<img src="Images/a7.png" alt="Alt Text for a3" width="50%" />
+</div>
+
+<div width = 50%>
+  
+**Describe your overall observations about the data visualization here.  What stood out to you?  What did you find worked really well?  What didn't?  What, if anything, would you do differently?**
+
+* The title might be a little misleading in that the chart only shows the data for one race (as specified by the interactive panel.) I like the use of a histogram/bar chart to show a distribution of firm receipt accounts. However, I was not familiar what firm receipt amount but rather have a vague guess as to what it is. This could mean that the chart is not going to be accessible to the average person, but for someone who has knowledge in the area such as policy makers, relevant non-profits/business incubators, etc. If the intent of the chart is to show differences between race, I do not think the chart is doing a good job in making comparisons as you have to toggle between charts in order to see differences. If we are trying to show a comparison between groups, it may be useful to include data from other races in the graph.  
+
+**Who is the primary audience for this tool?  Do you think this visualization is effective for reaching that audience?  Why or why not?**
+
+* Given the context, I feel like the audience is for those in the public/private sector who are interested in the state of businesses (specifically, given the website's name, looking to see the state of black businesses). I think there can be more to be done to communicate the state of black businesses - drawing more attention to where they stand in comparison to others - would be very beneficial to see if there is more to be done or if the current state is healthy.
+
+**Final thoughts: how successful what this method at evaluating the data visualization you selected? Are there measures you feel are missing or not being captured here?  What would you change?  Provide 1-2 recommendations (color, type of visualization, layout, etc.)**
+
+* I think this method is great at ensuring you consider multiple metrics of a graph. For the visualization itself, I would recommend adding other demographic groups and highlighting the bars for black businesses to 1) increase impact of black businesses and 2) have a point of comparison.
+</div>
+
+
 
 
 ## Step three: sketch a solution
@@ -102,4 +128,33 @@ Add a legend or glossary explaining terms like "firm receipt" and "black firm."
 
 
 Step five: build your solution	
-<div class='tableauPlaceholder' id='viz1739417992922' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MakeOverMonday_17394179765160&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MakeOverMonday_17394179765160&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MakeOverMonday_17394179765160&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>            	<script type='text/javascript'>                	var divElement = document.getElementById('viz1739417992922');                	var vizElement = divElement.getElementsByTagName('object')[0];                	if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                 	var scriptElement = document.createElement('script');                	scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                	vizElement.parentNode.insertBefore(scriptElement, vizElement);            	</script>
+<div class='tableauPlaceholder' id='viz1739417992922' style='position: relative'>
+  <noscript>
+    <a href='#'>
+      <img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MakeOverMonday_17394179765160&#47;Dashboard1&#47;1_rss.png' style='border: none' />
+    </a>
+  </noscript>
+  <object class='tableauViz'  style='display:none;'>
+    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> 
+    <param name='site_root' value='' />
+    <param name='name' value='MakeOverMonday_17394179765160&#47;Dashboard1' />
+    <param name='tabs' value='no' /><param name='toolbar' value='yes' />
+    <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MakeOverMonday_17394179765160&#47;Dashboard1&#47;1.png' /> 
+    <param name='animate_transition' value='yes' />
+    <param name='display_static_image' value='yes' />
+    <param name='display_spinner' value='yes' />
+    <param name='display_overlay' value='yes' />
+    <param name='display_count' value='yes' />
+    <param name='language' value='en-US' />
+    <param name='filter' value='publish=yes' />
+  </object></div>            	
+  <script type='text/javascript'>
+    var divElement = document.getElementById('viz1739417992922');
+    var vizElement = divElement.getElementsByTagName('object')[0];         
+    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} 
+    else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} 
+    else { vizElement.style.width='100%';vizElement.style.height='727px';}                 	
+    var scriptElement = document.createElement('script');     
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                	
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);            	
+  </script>
