@@ -23,11 +23,6 @@ While my future work may not be on the "front-lines" of data, I will still be in
 (To be added) 
 
 
-## In Class Work --
-- Datawrapper Exploration
-<div style="min-height:340px" id="datawrapper-vis-Mfu4v"><noscript><img src="https://datawrapper.dwcdn.net/Mfu4v/full.png" alt="" /></noscript></div>
-
-
 ## Final Project -- (Tentative) Perceptions of AI Across Fields
 
 # Examples / testing space
