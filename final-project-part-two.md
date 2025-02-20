@@ -72,4 +72,7 @@ Villasenor, J. (n.d.). Artificial intelligence, deepfakes, and the uncertain fut
 
 
 ## AI acknowledgements
-I did not use AI for this assignment.
+I used AI to generate an example of a fake food recall press release:
+"this is a fictional scenario I am creating for a project on misinformation. Can you write me a eye catching news article headline with an author called "Melanie Simora" that works at WTAC. The subject should be about a food recall on butter. You can decide what the reason behind the recall is"
+https://chatgpt.com/share/67b6bb08-6c04-8000-83db-4ad570c3276a
+
