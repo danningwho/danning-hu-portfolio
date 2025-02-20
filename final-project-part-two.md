@@ -4,7 +4,7 @@
 
 
 # Wireframes / storyboards
-Visit Preview of Shorthand [here] (https://preview.shorthand.com/mSFMAwrZ5f9Jykoa)
+## Visit Preview of Shorthand [here](https://preview.shorthand.com/mSFMAwrZ5f9Jykoa)
 
 # User research
 
