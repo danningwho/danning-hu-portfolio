@@ -11,11 +11,10 @@
 ## Target audience
 My target audience are those ages 18-30 and leaning towards U.S. individuals given the context of my work. I wrote in the first section of my 
 My approach to identifying representative individuals:
-I think this came pretty easy given my target audience. I was lucky that I have access to students with varying backgrounds and those who are in the workforce but are within the age range.
-As long as they 1, read news online, or 2, interact with online platforms and content, I counted them as qualified.
+- I think this came pretty easy given my target audience. I was lucky that I have access to students with varying backgrounds and those who are in the workforce but are within the age range.
+- As long as they 1, read news online, or 2, interact with online platforms and content, I counted them as qualified.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask.
 - Who do you think my audience is? Is that clear from my work so far? --> Based on feedback from part 1, I wanted to narrow it further and ideally target an age group.
 - Was there anything you didn’t understand?
 - What recommendations do you have/general comments do you have?
