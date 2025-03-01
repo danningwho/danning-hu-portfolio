@@ -1,36 +1,38 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://danningwho.github.io/danning-hu-portfolio/) | [data viz examples](https://danningwho.github.io/danning-hu-portfolio/dataviz-examples) | [critique by design](https://danningwho.github.io/danning-hu-portfolio/critique-by-design) | [final project I](https://danningwho.github.io/danning-hu-portfolio/final-project-part-one) | [final project II](https://danningwho.github.io/danning-hu-portfolio/final-project-part-two) | [final project III](https://danningwho.github.io/danning-hu-portfolio/final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+Link to final data story: [here](https://preview.shorthand.com/mSFMAwrZ5f9Jykoa) 
+(Shorthand did not allow me to publish the final 
 
-Text here!
+# Changes made since Part II + Final Design Decisions
+1. Given the feedback regarding real names/potential doxing in the facebook post example of misinformation, I removed it and instead replaced it with the PolitiFact fact check screenshot + link. This one does not have any names or images of who posted the original post.
+2. I double checked image attributions as well to make sure it was in line with Emily from CMU library's advice.
+3. Bolstered content in "The Rise of Generative AI" by adding small section on identifying AI images. I decided not to put it in the call to action section as I want to maintain the spotlight on "think twice before you share."
+4. Changed the title of the covid-19 discinformation chart to "While Correlation ≠ Causation, Disinformation COVID-19 Publications in 2020 Coincide with General Upticks in New Cases" from "Disinformation Publications in 2020" fo more clarity. I also changed the Y-Axis title to clearly indicate that it is the quanity of disinformation publications. Finally, I changed the line color to red to maintain consistency with other charts on the page. Ideally, this makes the project as a whole more cohesive with the main colors being dark blue, light blue, white, black, and red.
 
-# Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
-
-Text here!
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+When I first started this project, my audience was set at "general public" as I thought it was information most should be cognizant of. From feedback, one criticism I got from phase 1 was to think about narrowing the scope and better defining who I want my audience should be. This leads to my final audience: younger Americans (18-29).
 
-Text here!
+**Why younger Americans?**
+Some key reasons why I looked towards the younger demographic is that I have the greatest amount of access in user interviews to people of this age group and the high percentage of social media usage (as a news source). It is easy to assume that since most people from this demographic grew up with and around techonology and social media in its current form, they are least succeptible to misinformation/gen AI creation's deception. From said user interviews, I got great insight on the varying levels of knowledge of mis/disinformation + AI capabilities. Those who have more interest or have their finger on the pulse on current events are more likely to be aware. However, it is crucial to fold in readers/viewers such that they are equipped with similar levels of knowledge when presented with the argument and call to action.
+* I added more examples of misinformation as a direct response to feedback from phase 2 interviews: 2 examples of 2016 mis/disinformation and 2 COVID-19 related examples.
+* I added the PEW Research Center statistics at the start of the page to anchor the audience + asking where the reader got their news from.
 
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+*References listed in Shorthand*
 
 ## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
+> I used AI to generate a fake food recall press release as an example in the project: "this is a fictional scenario I am creating for a project on misinformation. Can you write me a eye catching news article headline with an author called "Melanie Simora" that works at WTAC. The subject should be about a food recall on butter. You can decide what the reason behind the recall is"
+> [https://chatgpt.com/share/...](https://chatgpt.com/share/67b6bb08-6c04-8000-83db-4ad570c3276a)
 
-Text here!
+
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
-Text here!
+There is so much content/information on misinformation it is hard to keep everything contained to a reasonable timeframe (for the presentation) and scope (for the project as a whole). Generative AI in misinformation/disinformation is still relatively new in the sense that its popularity only boomeed in around ~2020 making finding comprehensive data difficult. I would love to explore more on the impact on Generative AI on how believable misinformation has become with it but something like that seems hard to measure.
 
+I was most excited to construct a story/narative. Keeping the story beats relatively simple/focused on a particular topic made it easier in my head to organize and structure what content or data goes where. For example, I added a section describing some tips/tricks to identifying AI generated content. That information is applicable to both the Gen AI section also the last "call to action" section. I opted to keep it contained in the former section as I wanted a clear focus at the end to be on a single message. Additionally, it just seemed to fit well in the gen ai + misinfo section as I had a part asking readers to take a quiz on distinguishing real vs. ai generated images.
 
+As for the final message itself, I wanted to keep it feasible and actionable for an individual. It is easy to throw your hands up and not change any of your behavior when the perceived problem is too big for a single person to handle. I hope that I conveyed a relatively hopeful action item that is tangible for most.
