@@ -2,7 +2,7 @@
 
 # The final data story
 Link to final data story: [here](https://preview.shorthand.com/mSFMAwrZ5f9Jykoa) 
-(Shorthand did not allow me to publish the final 
+(Shorthand did not allow me to publish the final)
 
 # Changes made since Part II + Final Design Decisions
 1. Given the feedback regarding real names/potential doxing in the facebook post example of misinformation, I removed it and instead replaced it with the PolitiFact fact check screenshot + link. This one does not have any names or images of who posted the original post.
