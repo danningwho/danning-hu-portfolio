@@ -27,7 +27,8 @@ My approach to identifying representative individuals:
 
 
 ## Interview findings
-| Role      	| Who do you think is the intended audience for this?                              	| Does the content included make sense?                                             	| Is there anything you find surprising or confusing?                                                                 	| Is there anything you would change or do differently?                                   	|
+
+| Role | Who do you think is the intended audience for this? | Does the content included make sense? | Is there anything you find surprising or confusing? | Is there anything you would change or do differently? |
 |---------------|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
 | Student - MUD | I guess general audience but leaning towards younger folks                     	| Mostly. I think you just need to add a bit more content.                         	| I was not aware of there being misinformation during the time periods you mentioned, like in 2016, so I don’t completely know what you are referring to. | I would add more examples of misinformation that occurred during the election/covid.    	|
 | Student - PPM | Yeah, I think this was meant for someone around our age                        	| Makes sense overall                                                              	| Not really, just some of the charts can be hard to understand. The covid chart needs a bit more information like a clearer title to show why misinformation had an impact. | A timeline of events? I don’t know how or what you would put on this.                   	|
@@ -37,7 +38,7 @@ My approach to identifying representative individuals:
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+
 | Research Synthesis                                       	| Anticipated changes for Part III                                                                                               	|
 |-------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | Additional contextual clues for the readers to anchor better with the events described in the website | Adding 2 examples of misinformation in the 2016 misinformation example and COVID-19 example                                 	|
